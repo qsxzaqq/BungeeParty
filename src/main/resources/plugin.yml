@@ -1,0 +1,5 @@
+name: BungeeParty
+main: cc.i9mc.bungeeparty.BungeeParty
+version: 1.0
+depends: [RedisBungee, PluginChannel]
+author: JinVan
